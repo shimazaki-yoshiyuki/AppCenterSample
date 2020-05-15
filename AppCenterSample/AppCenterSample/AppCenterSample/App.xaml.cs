@@ -11,6 +11,7 @@ namespace AppCenterSample
 {
     public partial class App : Application
     {
+    // Appentor接続用のキー
         const string uwpKey = "2b977979-ebbc-40f8-b6d2-cddb98312ac1";
         const string iosKey = "a142902f-a576-4224-8a04-f7d7100ad018";
         const string androidKey = "38668b4a-3a1f-44f6-96a1-30692a18c8c8";
